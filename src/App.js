@@ -1,12 +1,20 @@
-import logo from './logo.svg';
+
 import './App.css';
+import {  Routes, Route, } from "react-router-dom";
+
 
 function App() {
   return (
-    <div className="App">
-      <h1 className='bg-slate-600 text-red-700'>my name is Mariam </h1>
-      <h2>djsb</h2>
-    </div>
+   
+    <div>
+    <Routes>
+      <Route>
+        
+      </Route>
+    </Routes>
+    </div> 
+    
+   
   );
 }
 
